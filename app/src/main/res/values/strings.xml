@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Cinema Room Manager</string>
+    <string name="screen">Screen</string>
+    <string name="estimated_ticket_price">Estimated ticket price: %1$s$</string>
+    <string name="a_d_title">Buy a ticket %1$s row %2$s place</string>
+    <string name="a_d_message">Your ticket price is %1$s$</string>
+    <string name="a_d_positive_button">BUY A TICKET</string>
+    <string name="a_d_negative_button">CANCEL PURCHASE</string>
+    <string name="Total_cinema_income">Total cinema income: %1$s$</string>
+    <string name="Current_cinema_income">Current cinema income: %1$s$</string>
+    <string name="Available_seats">Available seats: %1$s</string>
+    <string name="Occupied_seats">Occupied seats: %1$s</string>
+</resources>

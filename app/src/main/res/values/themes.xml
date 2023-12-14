@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CinemaRoomManager" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/available_seat</item>
+    </style>
+
+    <style name="Theme.CinemaRoomManager" parent="Base.Theme.CinemaRoomManager" />
+</resources>
